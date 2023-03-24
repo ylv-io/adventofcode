@@ -1,0 +1,5 @@
+const fs = require("fs");
+
+const lines = fs.readFileSync("input01", "utf-8").split("\n");
+
+console.log(lines);

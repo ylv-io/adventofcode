@@ -1,2 +1,7 @@
 .vscode
 .DS_Store
+out/
+cache/
+lib/
+2019/
+calories.txt
